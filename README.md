@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/9a10c017-c737-4d0c-8d10-daf53259a3a5)
+
 # Jasnoor Palette 🎨
 
 Hi! I'm Jasnoor 👋  
