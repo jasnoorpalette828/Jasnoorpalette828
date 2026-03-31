@@ -27,7 +27,7 @@ Email Me 👉 ✉️ **pawanjasnoor828@gmail.com** For Collaboration/Project or 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasnoorpalette828&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=designbyjasnoor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=designbyjasnoor&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jasnoorpalette828&theme=dark&hide_border=false)
 
 ### ✍️ Inspirational Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
