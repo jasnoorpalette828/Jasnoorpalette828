@@ -1,6 +1,4 @@
-![Image](https://github.com/user-attachments/assets/9a10c017-c737-4d0c-8d10-daf53259a3a5)
-
-# Jasnoor Palette 🎨
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/424dc9ae-8301-4f7e-87d4-1be94d636d88" />
 
 Hi! I'm Jasnoor 👋  
 This repository showcases my **Canva design projects**, including social media posts, presentations, and posters.  
