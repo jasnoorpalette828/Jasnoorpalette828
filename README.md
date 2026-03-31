@@ -20,6 +20,32 @@ Email Me 👉 ✉️ **pawanjasnoor828@gmail.com** For Collaboration/Project or 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+# 💻 Tech Stack:
+
+### 🎨 Design & Creativity
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🌐 Web Basics
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🐍 Programming (Learning Phase)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🛠️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+### 🚀 Currently Learning
+![Python](https://img.shields.io/badge/python-learning-blue?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/html-learning-orange?style=for-the-badge&logo=html5)
+
+### 💡 Skills
+- Social Media Post Design  
+- Carousel & Poster Design  
+- Marketing Creatives  
+- Visual Storytelling  
+- Basic Web Development
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jasnoorpalette828&theme=radical&no-frame=false&no-bg=false&margin-w=4)## 
 
