@@ -46,8 +46,6 @@ Email Me 👉 ✉️ **pawanjasnoor828@gmail.com** For Collaboration/Project or 
 ### ✍️ Inspirational Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cream)
 
-> “The more you create, the more you grow.” — Jasnoor Kaur Pawan
-
 ## 📂 Featured Projects  
 
 🔹 Social Media Designs Collection  
